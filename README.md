@@ -1,1 +1,1 @@
-This app allows the user to search for a show by querying TV Maze API. By clicking on each of the returned shows, a lightbox is opened and more details about the show are displayed. 
+This app allows the user to search for a show by querying TV Maze API. By clicking on each of the returned shows, a lightbox is opened and more details about the show are displayed. The app is built from scratch using html5, css3, javascript, jquery and ajax technologies.
